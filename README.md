@@ -1,61 +1,106 @@
-# Anju Alba Sitompul 👋
-
-> Short bio: — Full Stack Developer
-
-[![Profile Views](https://komarev.com/ghpvc/?username=AnjuAlbaSitompul&color=blue)](https://github.com/AnjuAlbaSitompul)
-[![Followers](https://img.shields.io/github/followers/AnjuAlbaSitompul?label=Followers&style=social)](https://github.com/AnjuAlbaSitompul?tab=followers)
-
----
-
-<details>
-<summary>Contact & Social</summary>
-
-- Email: [anjuluvmotis13@gmail.com]
-- LinkedIn: [www.linkedin.com/in/anju-alba-sitompul-817a36275]
-- Instagram: [https://www.instagram.com/pak_tompul/]
-
-</details>
-
-<details>
-<summary>Skills & Tech</summary>
-
-- Languages: JavaScript, TypeScript, Python, Java
-- Frameworks: React, Node.js, Express, Next.js
-- Tools: Git, Docker, GitHub Actions, PostgreSQL, Redis
-
-Badges:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</details>
-
-<details>
-<summary>Interactive widgets</summary>
-
-- GitHub trophies:  
-   ![Trophies](https://github-profile-trophy.vercel.app/?username=AnjuAlbaSitompul&theme=default)
-- Visitor badge:  
-   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AnjuAlbaSitompul.AnjuAlbaSitompul)
-- Contribution heatmap (image):  
-   ![Contribution Graph](https://ghchart.rshah.org/AnjuAlbaSitompul)
-
-> Replace AnjuAlbaSitompul in the URLs above with your GitHub username to enable dynamic stats.
-
-</details>
+<!-- Banner / Header -->
+<h1 align="center">Hi, I'm YOUR_NAME 👋</h1>
+<p align="center">
+  <b>Fullstack Developer | JavaScript & PHP Enthusiast | Mobile & Web Engineer</b>
+</p>
 
 ---
 
-## Projects to try
+## 🚀 Tech Stack
 
-- [awesome-repo](https://github.com/AnjuAlbaSitompul/awesome-repo) — short 1-line description
-- [cli-tool](https://github.com/AnjuAlbaSitompul/cli-tool) — short 1-line description
+<p align="left">
+
+<!-- Languages -->
+
+<strong>Languages:</strong><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,php" />
+
+<br/><br/>
+
+<strong>Frameworks & Libraries:</strong><br/>
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,express,react,reactnative,tailwind,expo" />
+
+<br/><br/>
+
+<strong>Tools:</strong><br/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker" />
+
+</p>
 
 ---
 
-If you'd like, I can:
+## 🔥 About Me
 
-- fill in this template with your name/username,
-- suggest badges for specific tools,
-- generate a short bio.
+- 💡 Love building scalable apps using **Laravel**, **Next.js**, and **Express**
+- 🎨 Passionate about **React Native**, **Expo**, and **clean UI with Tailwind**
+- 🚀 Enjoy turning ideas into real-world solutions
+- 🤝 Always open for collaboration and learning new things
 
-Replace all AnjuAlbaSitompul / YOUR_NAME / YOUR_BIO placeholders, then save as README.md in your profile repo (username/username).
+---
+
+## 🧩 Featured Projects
+
+### ⭐ **Project 1 — Your Cool App**
+
+Short description of your project.  
+Tech Stack: **Next.js, Tailwind, Express, TypeScript**  
+🔗 Demo: _link_  
+🔗 Repo: _link_
+
+---
+
+### ⭐ **Project 2 — Mobile App**
+
+Short description of your mobile app.  
+Tech Stack: **Expo, React Native, TypeScript**  
+🔗 Demo: _link_  
+🔗 Repo: _link_
+
+---
+
+### ⭐ **Project 3 — Backend Service**
+
+Short description of your backend service.  
+Tech Stack: **Laravel / Express**  
+🔗 Repo: _link_
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Activity & Streaks
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 💬 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/your_link">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+  <a href="https://linkedin.com/in/your_link">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://yourwebsite.com">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+## ✨ Fun Fact
+
+_"Add something playful or cute about yourself here."_
