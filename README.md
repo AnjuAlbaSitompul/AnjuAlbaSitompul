@@ -8,8 +8,6 @@
 
 ## 🚀 Tech Stack
 
-<p align="center">
-
 <!-- Languages -->
 
 <strong align="center">Languages</strong><br/>
@@ -24,8 +22,6 @@
 
 <strong>Tools:</strong><br/>
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker" />
-
-</p>
 
 ---
 
