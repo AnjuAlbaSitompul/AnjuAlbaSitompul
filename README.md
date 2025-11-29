@@ -1,66 +1,32 @@
 <!-- Banner / Header -->
-<h1 align="center">Hi, I'm YOUR_NAME 👋</h1>
+
+<h1 align="center">Anju Alba Sitompul 👋</h1>
 <p align="center">
   <b>Fullstack Developer | JavaScript & PHP Enthusiast | Mobile & Web Engineer</b>
 </p>
 
 ---
 
-## 🚀 Tech Stack
-
-<!-- Languages -->
-
-<strong align="center">Languages</strong><br/>
-<img align="center" src="https://skillicons.dev/icons?i=js,ts,php" />
-
-<br/><br/>
-
-<strong>Frameworks & Libraries</strong><br/>
-<img src="https://skillicons.dev/icons?i=laravel,nextjs,express,react,tailwind" />
-
-<br/><br/>
-
-<strong>Tools:</strong><br/>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker" />
-
----
-
 ## 🔥 About Me
 
-- 💡 Love building scalable apps using **Laravel**, **Next.js**, and **Express**
+- 💡 Love building scalable apps using **React Native**, **Next.js**, and **Express**
 - 🎨 Passionate about **React Native**, **Expo**, and **clean UI with Tailwind**
 - 🚀 Enjoy turning ideas into real-world solutions
 - 🤝 Always open for collaboration and learning new things
 
 ---
 
-## 🧩 Featured Projects
+## 🚀 Language, FrameWorks, Libraries And Tools
 
-### ⭐ **Project 1 — Your Cool App**
+<!-- Languages -->
 
-Short description of your project.  
-Tech Stack: **Next.js, Tailwind, Express, TypeScript**  
-🔗 Demo: _link_  
-🔗 Repo: _link_
-
----
-
-### ⭐ **Project 2 — Mobile App**
-
-Short description of your mobile app.  
-Tech Stack: **Expo, React Native, TypeScript**  
-🔗 Demo: _link_  
-🔗 Repo: _link_
-
----
-
-### ⭐ **Project 3 — Backend Service**
-
-Short description of your backend service.  
-Tech Stack: **Laravel / Express**  
-🔗 Repo: _link_
-
----
+<p align="center">
+<img align="center" src="https://skillicons.dev/icons?i=js,ts,php" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,express,react,tailwind" />
+<br/></br>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker" />
+</p>
 
 ## 📊 GitHub Analytics
 
@@ -100,3 +66,23 @@ Tech Stack: **Laravel / Express**
 ## ✨ Fun Fact
 
 _"Add something playful or cute about yourself here."_
+
+<p align="center">
+
+  <!-- Status -->
+  <img src="https://img.shields.io/badge/Fullstack-Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+</p>
+
+---
