@@ -8,17 +8,17 @@
 
 ## 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
 
 <!-- Languages -->
 
-<strong>Languages:</strong><br/>
+<strong>Languages</strong><br/>
 <img src="https://skillicons.dev/icons?i=js,ts,php" />
 
 <br/><br/>
 
-<strong>Frameworks & Libraries:</strong><br/>
-<img src="https://skillicons.dev/icons?i=laravel,nextjs,express,react,reactnative,tailwind,expo" />
+<strong>Frameworks & Libraries</strong><br/>
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,express,react,tailwind" />
 
 <br/><br/>
 
