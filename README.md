@@ -12,8 +12,8 @@
 
 <!-- Languages -->
 
-<strong>Languages</strong><br/>
-<img src="https://skillicons.dev/icons?i=js,ts,php" />
+<strong align="center">Languages</strong><br/>
+<img align="center" src="https://skillicons.dev/icons?i=js,ts,php" />
 
 <br/><br/>
 
