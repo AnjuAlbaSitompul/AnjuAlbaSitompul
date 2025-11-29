@@ -1,28 +1,18 @@
-# Hi, I'm YOUR_NAME 👋
+# Anju Alba Sitompul 👋
 
-> Short bio: YOUR_BIO — developer, builder and lifelong learner.
+> Short bio: — Full Stack Developer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AnjuAlbaSitompul&color=blue)](https://github.com/AnjuAlbaSitompul)
 [![Followers](https://img.shields.io/github/followers/AnjuAlbaSitompul?label=Followers&style=social)](https://github.com/AnjuAlbaSitompul?tab=followers)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjuAlbaSitompul&layout=compact&theme=default)](https://github.com/AnjuAlbaSitompul)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnjuAlbaSitompul&show_icons=true&count_private=true&theme=default)](https://github.com/AnjuAlbaSitompul)
 
 ---
-
-## Quick links
-
-- 🔭 Current work: [Project/Company](https://github.com/AnjuAlbaSitompul)
-- ⭐ Featured repo: [awesome-repo](https://github.com/AnjuAlbaSitompul/awesome-repo)
-- 📝 Blog: https://your-blog.example.com
-- 📄 Resume: [PDF or Link](https://example.com/resume.pdf)
 
 <details>
 <summary>Contact & Social</summary>
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/YOUR_PROFILE)
-- Twitter: [@your_twitter](https://twitter.com/your_twitter)
-- Website: https://your-website.example.com
+- Email: [anjuluvmotis13@gmail.com]
+- LinkedIn: [www.linkedin.com/in/anju-alba-sitompul-817a36275]
+- Instagram: [https://www.instagram.com/pak_tompul/]
 
 </details>
 
