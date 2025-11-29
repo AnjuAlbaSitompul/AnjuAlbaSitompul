@@ -31,11 +31,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnjuAlbaSitompul&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjuAlbaSitompul&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-contributor-stats.vercel.app/api?username=AnjuAlbaSitompul&limit=5&theme=tokyonight" />
 </p>
-
----
 
 ## 🎯 Activity & Streaks
 
@@ -43,29 +40,19 @@
   <img height="170" src="https://streak-stats.demolab.com/?user=AnjuAlbaSitompul&theme=tokyonight" />
 </p>
 
----
-
 ## 💬 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/your_link">
+  <a href="https://instagram.com/pak_tompul">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
-  <a href="https://linkedin.com/in/your_link">
+  <a href="www.linkedin.com/in/anju-alba-sitompul-817a36275">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://yourwebsite.com">
-    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
----
-
-## ✨ Fun Fact
-
-_"Add something playful or cute about yourself here."_
+_"Keep Your Coffee and Laptop close."_
 
 <p align="center">
 
